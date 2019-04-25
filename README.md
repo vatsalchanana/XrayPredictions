@@ -1,2 +1,2 @@
-# Xray Prediction on Stanford ml dataset
+# Xray Prediction on Stanford ML dataset
 CIS 700 - Deep learning project
