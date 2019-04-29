@@ -5,6 +5,8 @@ In the US, over a 150 million chest X-rays are done yearly by radiologists to he
 
 The dataset of Chest X-rays that we will be using for the project is called CheXpert collated by the Stanford ML group. We use the lowerr resolution dataset. The dataset can be found here : https://stanfordmlgroup.github.io/competitions/chexpert/
 
+![image alt](https://imgur.com/6WFXEoz.png =300x)
+
 ### Running Models:
 To run the models, change the path for the files in the dataloaders.
 
