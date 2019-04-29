@@ -14,7 +14,7 @@ CNN with 14 classes: CNN-14C.ipynb
 
 DenseNet121: DenseNet_14classes_SingleModel.ipynb
 
-ResNet : resnet_train.py
+ResNet : resnet_train.py, torch_train_resnet.py
 
 Combined Model: MultipleModels14C.ipynb
 
